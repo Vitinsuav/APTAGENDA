@@ -1,0 +1,10 @@
+@media (min-width: 1px) and (max-width: 899px) {
+.GridBottom{
+    position: unset !important;
+}
+}
+
+.GridBottom{
+    position: absolute;
+}
+
